@@ -2,5 +2,6 @@ https://itirican11.github.io/
 https://api.auth.gg/csharp/
 http://34.130.116.151/
 https://itirican11.github.io/RainbowUnicorns/Blacklists
+https://itirican11.github.io/RainbowUnicorns/Version
 https://discord.com/api/webhooks/935681597292822648/-t-TWOsyOGY1tMY6viFKa92h9-UAcRKwgNIA4UTD0YJSlETkrcg1NkhfUpQqnYyGa8m4
 https://cdn.discordapp.com/attachments/817138203386445904/879490008317313055/010000001001001010010101001010
