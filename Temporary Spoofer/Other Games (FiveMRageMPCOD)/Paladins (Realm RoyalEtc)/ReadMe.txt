@@ -1,0 +1,1 @@
+Vanity renames files after download.
